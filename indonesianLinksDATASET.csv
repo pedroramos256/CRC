@@ -1,0 +1,888 @@
+Source,Target,Type,Id,Label,Weight
+Abdul Azis,Abdul Hadi,Directed,Abdul Azis,,0.7
+Abdul Azis,Abdullah Sunata,Directed,Abdul Azis,,0.8
+Abdul Azis,Ali Zein,Directed,Abdul Azis,,0.8
+Abdul Azis,Faturrahman,Directed,Abdul Azis,,0.8
+Abdul Azis,Hari Kuncoro,Directed,Abdul Azis,,0.7
+Abdul Azis,Imam Bukhori,Directed,Abdul Azis,,0.8
+Abdul Azis,Iwan Suka Abdullah,Directed,Abdul Azis,,0.7
+Abdul Azis,Jabir,Directed,Abdul Azis,,0.7
+Abdul Azis,Misno,Directed,Abdul Azis,,0.7
+Abdul Azis,Noordin,Directed,Abdul Azis,,0.8
+Abdul Azis,Said Sungkar,Directed,Abdul Azis,,0.8
+Abdul Azis,Usman,Directed,Abdul Azis,,0.7
+Abdul Hadi,Epul,Directed,Abdul Hadi,,0.8
+Abdul Hadi,Heri Golun,Directed,Abdul Hadi,,0.8
+Abdul Hadi,Jabir,Directed,Abdul Hadi,,0.9
+Abdul Hadi,Misno,Directed,Abdul Hadi,,0.8
+Abdul Hadi,Noordin,Directed,Abdul Hadi,,1.0
+Abdul Hadi,Rijal,Directed,Abdul Hadi,,0.8
+Abdul Hadi,Ubeid,Directed,Abdul Hadi,,0.9
+Abdullah Sunata,Ahmed Sayid Maulana,Directed,Abdullah Sunata,,1.6
+Abdullah Sunata,Akram,Directed,Abdullah Sunata,,0.8
+Abdullah Sunata,Dulmatin,Directed,Abdullah Sunata,,1.6
+Abdullah Sunata,Enceng Kurnia,Directed,Abdullah Sunata,,1.6
+Abdullah Sunata,Faiz,Directed,Abdullah Sunata,,0.8
+Abdullah Sunata,Hari Kuncoro,Directed,Abdullah Sunata,,0.8
+Abdullah Sunata,Joko Purwanto,Directed,Abdullah Sunata,,0.7
+Abdullah Sunata,Joko Sulistyo,Directed,Abdullah Sunata,,0.8
+Abdullah Sunata,Niko,Directed,Abdullah Sunata,,0.8
+Abdullah Sunata,Noordin,Directed,Abdullah Sunata,,1.2
+Abdullah Sunata,Patek,Directed,Abdullah Sunata,,0.8
+Abdullah Sunata,Sibghotullah,Directed,Abdullah Sunata,,1.0
+Abdullah Sunata,Sofyan,Directed,Abdullah Sunata,,0.8
+Abdullah Sunata,Usman,Directed,Abdullah Sunata,,0.8
+Abdullah Sunata,Yudi,Directed,Abdullah Sunata,,0.8
+Abrory,Cahya Fitriyanta,Directed,Abrory,,0.8
+Abrory,Deni Suramto,Directed,Abrory,,0.7
+Abrory,Dwi Widiarto,Directed,Abrory,,0.8
+Abrory,Jipo,Directed,Abrory,,0.8
+Abrory,Muadz,Directed,Abrory,,0.7
+Abrory,Noordin,Directed,Abrory,,0.9
+Abrory,Rizky Gunawan,Directed,Abrory,,0.8
+Abrory,Santoso,Directed,Abrory,,0.8
+Abrory,Ubaid,Directed,Abrory,,0.9
+Abrory,Urwah,Directed,Abrory,,0.9
+Abu Dujana,Adung,Directed,Abu Dujana,,0.8
+Abu Dujana,Deni Suramto,Directed,Abu Dujana,,0.7
+Abu Dujana,Fahim,Directed,Abu Dujana,,0.8
+Abu Dujana,Qotadah,Directed,Abu Dujana,,0.7
+Abu Dujana,Son Hadi,Directed,Abu Dujana,,0.8
+Abu Dujana,Ubeid,Directed,Abu Dujana,,0.7
+Abu Dujana,Urwah,Directed,Abu Dujana,,0.7
+Abu Fida,Chandra,Directed,Abu Fida,,0.7
+Abu Fida,Deni Suramto,Directed,Abu Fida,,0.8
+Abu Fida,Heri Sigu,Directed,Abu Fida,,0.7
+Abu Fida,Jabir,Directed,Abu Fida,,0.7
+Abu Fida,Noordin,Directed,Abu Fida,,0.9
+Abu Fida,Rois,Directed,Abu Fida,,0.8
+Abu Fida,Son Hadi,Directed,Abu Fida,,0.8
+Abu Fida,Ubeid,Directed,Abu Fida,,0.8
+Abu Fida,Umar,Directed,Abu Fida,,0.7
+Abu Fida,Urwah,Directed,Abu Fida,,0.8
+Abu Rimba,Abdullah Sunata,Directed,Abu Rimba,,0.8
+Abu Rimba,Ahmed Sayid Maulana,Directed,Abu Rimba,,0.8
+Abu Rimba,Ismet Hakiki,Directed,Abu Rimba,,0.8
+Abu Tholut,Aryanto Haluta,Directed,Abu Tholut,,0.7
+Abu Tholut,Dulmatin,Directed,Abu Tholut,,0.8
+Abu Tholut,Mustaqim,Directed,Abu Tholut,,0.8
+Abu Tholut,Santoso,Directed,Abu Tholut,,0.8
+Abu Tholut,Ubaid,Directed,Abu Tholut,,0.8
+Abu Tholut,Uqbah,Directed,Abu Tholut,,0.8
+Adam,Kang Jaja,Directed,Adam,,0.8
+Adung,Abu Dujana,Directed,Adung,,0.8
+Adung,Abu Fida,Directed,Adung,,0.8
+Adung,Chandra,Directed,Adung,,0.7
+Adung,Fahim,Directed,Adung,,0.7
+Adung,Hasan,Directed,Adung,,0.7
+Adung,Heri Sigu,Directed,Adung,,0.7
+Adung,Jabir,Directed,Adung,,0.8
+Adung,Noordin,Directed,Adung,,0.9
+Adung,Qotadah,Directed,Adung,,0.8
+Adung,Son Hadi,Directed,Adung,,0.8
+Agus Supriyanto,Imron Rosyidi,Directed,Agus Supriyanto,,0.7
+Agus Supriyanto,Santoso,Directed,Agus Supriyanto,,0.8
+Aip Hidayat,Anif Solchanudin,Directed,Aip Hidayat,,0.8
+Aip Hidayat,Misno,Directed,Aip Hidayat,,0.8
+Aip Hidayat,Noordin,Directed,Aip Hidayat,,1.0
+Aip Hidayat,Salik Firdaus,Directed,Aip Hidayat,,0.8
+Akram,Abdullah Sunata,Directed,Akram,,0.8
+Akram,Enceng Kurnia,Directed,Akram,,0.8
+Alex Gunawan,Hilman Djajakusumah,Directed,Alex Gunawan,,0.7
+Alex Gunawan,Rizky Gunawan,Directed,Alex Gunawan,,0.7
+Alex Gunawan,Sabar,Directed,Alex Gunawan,,0.8
+Ali,Dulmatin,Directed,Ali,,1.0
+Ali Miftah,Ridwan Farid,Directed,Ali Miftah,,0.8
+Ali Miftah,Santoso,Directed,Ali Miftah,,0.8
+Ali Zein,Abdul Azis,Directed,Ali Zein,,0.8
+Ali Zein,Faiz,Directed,Ali Zein,,0.7
+Ali Zein,Faturrahman,Directed,Ali Zein,,0.8
+Ali Zein,Imam Bukhori,Directed,Ali Zein,,0.8
+Ali Zein,Iwan Suka Abdullah,Directed,Ali Zein,,0.7
+Ali Zein,Joko Harun,Directed,Ali Zein,,0.7
+Ali Zein,Joni Ahmad Fauzan,Directed,Ali Zein,,0.7
+Ali Zein,Noordin,Directed,Ali Zein,,0.9
+Ali Zein,Said Sungkar,Directed,Ali Zein,,0.7
+Ali Zein,Subur Sugiarto,Directed,Ali Zein,,0.8
+Ali Zein,Ubeid,Directed,Ali Zein,,0.8
+Ali Zein,Usman,Directed,Ali Zein,,0.8
+Ali Zein,Zainal,Directed,Ali Zein,,0.7
+Amrozi,Idris,Directed,Amrozi,,0.8
+Amrozi,Imron,Directed,Amrozi,,0.8
+Amrozi,Mubarok,Directed,Amrozi,,0.9
+Amrozi,Muklas,Directed,Amrozi,,1.0
+Amrozi,Samudra,Directed,Amrozi,,0.8
+Andre,"Abid ",Directed,Andre,,0.7
+Andre,Abu Rimba,Directed,Andre,,0.8
+Andre,Abu Rincung,Directed,Andre,,0.7
+Andre,"Agam Fitriadi ",Directed,Andre,,0.7
+Andre,Alek,Directed,Andre,,0.7
+Andre,Azam,Directed,Andre,,0.7
+Andre,Azwani,Directed,Andre,,0.7
+Andre,Iwan Suka Abdullah,Directed,Andre,,0.7
+Andre,Muhsin,Directed,Andre,,0.7
+Andre,Nukman,Directed,Andre,,0.7
+Andre,Sibghotullah,Directed,Andre,,0.8
+Andre,Sofyan,Directed,Andre,,0.8
+Andre,Surya Achda,Directed,Andre,,0.7
+Andre,Taufik,Directed,Andre,,0.7
+Andre,Tengku Marzuki,Directed,Andre,,0.7
+Andre,Tengku Mukhtar Ibrahim,Directed,Andre,,0.8
+Andre,Tengku Muslim,Directed,Andre,,0.8
+Andre,Yudi,Directed,Andre,,0.8
+Anif Solchanudin,Aip Hidayat,Directed,Anif Solchanudin,,0.8
+Anif Solchanudin,Misno,Directed,Anif Solchanudin,,0.8
+Anif Solchanudin,Noordin,Directed,Anif Solchanudin,,1.0
+Anton,Chandra,Directed,Anton,,0.8
+Anton,Deni Suramto,Directed,Anton,,0.8
+Anton,Fahim,Directed,Anton,,0.8
+Anton,Hasan,Directed,Anton,,0.8
+Anton,Ismail,Directed,Anton,,0.8
+Anton,Jauhari,Directed,Anton,,0.8
+Anton,Son Hadi,Directed,Anton,,0.8
+Arif Pamungkas,Badri Hartono,Directed,Arif Pamungkas,,0.9
+Arif Pamungkas,Joko Parkit,Directed,Arif Pamungkas,,0.7
+Arif Pamungkas,Kamidi,Directed,Arif Pamungkas,,0.7
+Arif Pamungkas,Robot,Directed,Arif Pamungkas,,0.7
+Arif Pamungkas,Rudi Kurnia Putra,Directed,Arif Pamungkas,,0.7
+Arif Pamungkas,Triyanto,Directed,Arif Pamungkas,,0.7
+Arif Pamungkas,Wendy Febriangga,Directed,Arif Pamungkas,,0.7
+Arman,Cholily,Directed,Arman,,0.9
+Arman,Noordin,Directed,Arman,,1.0
+Arnasan,Idris,Directed,Arnasan,,0.8
+Arnasan,Imron,Directed,Arnasan,,0.8
+Arnasan,Samudra,Directed,Arnasan,,1.0
+Aryanto Haluta,Abu Tholut,Directed,Aryanto Haluta,,0.9
+Aryanto Haluta,Santoso,Directed,Aryanto Haluta,,0.8
+Asmar Latin Sani,Idris,Directed,Asmar Latin Sani,,0.8
+Asmar Latin Sani,Ismail,Directed,Asmar Latin Sani,,0.8
+Asmar Latin Sani,M. Rais,Directed,Asmar Latin Sani,,0.8
+Asmar Latin Sani,Noordin,Directed,Asmar Latin Sani,,1.0
+Asmar Latin Sani,Sardona Siliwangi,Directed,Asmar Latin Sani,,0.8
+Asmar Latin Sani,Tohir,Directed,Asmar Latin Sani,,0.8
+Asmar Latin Sani,Toni Togar,Directed,Asmar Latin Sani,,0.8
+Azahari,Abdul Azis,Directed,Azahari,,0.7
+Azahari,Abu Dujana,Directed,Azahari,,0.6
+Azahari,Abu Fida,Directed,Azahari,,0.7
+Azahari,Adung,Directed,Azahari,,0.7
+Azahari,Ali Zein,Directed,Azahari,,0.7
+Azahari,Anton,Directed,Azahari,,0.7
+Azahari,Asmar Latin Sani,Directed,Azahari,,0.8
+Azahari,Chandra,Directed,Azahari,,0.7
+Azahari,Cholily,Directed,Azahari,,0.7
+Azahari,Deni Suramto,Directed,Azahari,,0.7
+Azahari,Dulmatin,Directed,Azahari,,1.5
+Azahari,Fahim,Directed,Azahari,,0.7
+Azahari,Hasan,Directed,Azahari,,0.7
+Azahari,Heri Sigu,Directed,Azahari,,0.7
+Azahari,Idris,Directed,Azahari,,1.4
+Azahari,Imron,Directed,Azahari,,0.7
+Azahari,Ismail,Directed,Azahari,,0.8
+Azahari,Jabir,Directed,Azahari,,0.7
+Azahari,Jauhari,Directed,Azahari,,0.7
+Azahari,M. Rais,Directed,Azahari,,0.9
+Azahari,Muklas,Directed,Azahari,,1.0
+Azahari,Noordin,Directed,Azahari,,1.0
+Azahari,Patek,Directed,Azahari,,0.7
+Azahari,Pujata,Directed,Azahari,,0.7
+Azahari,Rochman,Directed,Azahari,,0.7
+Azahari,Samudra,Directed,Azahari,,0.7
+Azahari,Sardona Siliwangi,Directed,Azahari,,0.7
+Azahari,Son Hadi,Directed,Azahari,,0.8
+Azahari,Tedi,Directed,Azahari,,0.9
+Azahari,Tohir,Directed,Azahari,,0.8
+Azahari,Toni Togar,Directed,Azahari,,0.8
+Azahari,Umar,Directed,Azahari,,0.7
+Badri Hartono,Arif Pamungkas,Directed,Badri Hartono,,0.7
+Badri Hartono,Fajar Novianto,Directed,Badri Hartono,,0.7
+Badri Hartono,Joko Parkit,Directed,Badri Hartono,,0.8
+Badri Hartono,Kamidi,Directed,Badri Hartono,,0.7
+Badri Hartono,Noordin,Directed,Badri Hartono,,1.0
+Badri Hartono,Robot,Directed,Badri Hartono,,0.7
+Badri Hartono,Rudi Kurnia Putra,Directed,Badri Hartono,,0.7
+Badri Hartono,Santoso,Directed,Badri Hartono,,0.8
+Badri Hartono,Triyanto,Directed,Badri Hartono,,0.7
+Badri Hartono,Urwah,Directed,Badri Hartono,,0.9
+Badri Hartono,Wendy Febriangga,Directed,Badri Hartono,,0.7
+Chandra,Abu Fida,Directed,Chandra,,0.8
+Chandra,Adung,Directed,Chandra,,0.7
+Chandra,Anton,Directed,Chandra,,0.8
+Chandra,Deni Suramto,Directed,Chandra,,0.8
+Chandra,Fahim,Directed,Chandra,,0.8
+Chandra,Hasan,Directed,Chandra,,0.8
+Chandra,Heri Sigu,Directed,Chandra,,0.7
+Chandra,Ismail,Directed,Chandra,,0.8
+Chandra,Jabir,Directed,Chandra,,0.7
+Chandra,Jauhari,Directed,Chandra,,0.8
+Chandra,Noordin,Directed,Chandra,,0.9
+Chandra,Son Hadi,Directed,Chandra,,0.8
+Cholily,Noordin,Directed,Cholily,,1.0
+Cholily,Tedi,Directed,Cholily,,0.9
+Deni Sulaiman,Abu Barok,Directed,Deni Sulaiman,,0.8
+Deni Sulaiman,Dulmatin,Directed,Deni Sulaiman,,1.0
+Deni Sulaiman,Heru Riyanto,Directed,Deni Sulaiman,,0.8
+Deni Sulaiman,Yusuf Arifin,Directed,Deni Sulaiman,,0.8
+Deni Suramto,Abu Dujana,Directed,Deni Suramto,,0.8
+Deni Suramto,Adung,Directed,Deni Suramto,,0.8
+Deni Suramto,Anton,Directed,Deni Suramto,,0.8
+Deni Suramto,Chandra,Directed,Deni Suramto,,0.8
+Deni Suramto,Dwi Widiarto,Directed,Deni Suramto,,0.8
+Deni Suramto,Fahim,Directed,Deni Suramto,,0.8
+Deni Suramto,Hasan,Directed,Deni Suramto,,0.8
+Deni Suramto,Ismail,Directed,Deni Suramto,,0.8
+Deni Suramto,Jauhari,Directed,Deni Suramto,,0.8
+Deni Suramto,Pandu,Directed,Deni Suramto,,0.8
+Deni Suramto,Qotadah,Directed,Deni Suramto,,0.8
+Deni Suramto,Rois,Directed,Deni Suramto,,0.8
+Deni Suramto,Son Hadi,Directed,Deni Suramto,,0.8
+Deni Suramto,Ubaid,Directed,Deni Suramto,,1.0
+Deni Suramto,Ubeid,Directed,Deni Suramto,,0.8
+Deni Suramto,Urwah,Directed,Deni Suramto,,1.8
+Dulmatin,Abdullah Sunata,Directed,Dulmatin,,1.6
+Dulmatin,Abu Tholut,Directed,Dulmatin,,0.8
+Dulmatin,Ali,Directed,Dulmatin,,1.0
+Dulmatin,Azahari,Directed,Dulmatin,,0.7
+Dulmatin,Deni Sulaiman,Directed,Dulmatin,,0.8
+Dulmatin,Deni Suramto,Directed,Dulmatin,,0.7
+Dulmatin,Enal Ta'o,Directed,Dulmatin,,1.0
+Dulmatin,Faiz,Directed,Dulmatin,,0.8
+Dulmatin,Firin,Directed,Dulmatin,,0.7
+Dulmatin,Ghani,Directed,Dulmatin,,0.8
+Dulmatin,Hari Kuncoro,Directed,Dulmatin,,0.8
+Dulmatin,Hasan Nur,Directed,Dulmatin,,1.0
+Dulmatin,Idris,Directed,Dulmatin,,0.8
+Dulmatin,Imron,Directed,Dulmatin,,0.8
+Dulmatin,Joko Sulistyo,Directed,Dulmatin,,0.7
+Dulmatin,Kamal,Directed,Dulmatin,,0.8
+Dulmatin,Kang Jaja,Directed,Dulmatin,,0.8
+Dulmatin,Muklas,Directed,Dulmatin,,1.0
+Dulmatin,Mustaqim,Directed,Dulmatin,,0.8
+Dulmatin,Niko,Directed,Dulmatin,,0.7
+Dulmatin,Patek,Directed,Dulmatin,,1.8
+Dulmatin,Samudra,Directed,Dulmatin,,0.8
+Dulmatin,Sibghotullah,Directed,Dulmatin,,0.8
+Dulmatin,Sofyan,Directed,Dulmatin,,0.8
+Dulmatin,Tengku Mukhtar Ibrahim,Directed,Dulmatin,,0.8
+Dulmatin,Tengku Muslim,Directed,Dulmatin,,0.7
+Dulmatin,Ubaid,Directed,Dulmatin,,0.8
+Dulmatin,Ubeid,Directed,Dulmatin,,0.8
+Dulmatin,Urwah,Directed,Dulmatin,,1.6
+Dulmatin,Usman,Directed,Dulmatin,,0.8
+Dulmatin,Warsito,Directed,Dulmatin,,0.7
+Dulmatin,Yudi,Directed,Dulmatin,,0.8
+Dwi Widiarto,Deni Suramto,Directed,Dwi Widiarto,,0.8
+Enal Ta'o,Abrory,Directed,Enal Ta'o,,0.8
+Enal Ta'o,Dulmatin,Directed,Enal Ta'o,,1.0
+Enceng Kurnia,Abdullah Sunata,Directed,Enceng Kurnia,,0.8
+Enceng Kurnia,Akram,Directed,Enceng Kurnia,,0.9
+Enceng Kurnia,Patek,Directed,Enceng Kurnia,,0.8
+Fadlun,Imron,Directed,Fadlun,,0.7
+Fadlun,Irwanto,Directed,Fadlun,,0.7
+Fadlun,Santoso,Directed,Fadlun,,0.8
+Fadlun,Yasin,Directed,Fadlun,,0.8
+Fahim,Abu Dujana,Directed,Fahim,,0.8
+Fahim,Adung,Directed,Fahim,,0.7
+Fahim,Anton,Directed,Fahim,,0.7
+Fahim,Chandra,Directed,Fahim,,0.7
+Fahim,Deni Suramto,Directed,Fahim,,0.7
+Fahim,Hasan,Directed,Fahim,,0.7
+Fahim,Heri Sigu,Directed,Fahim,,1.6
+Fahim,Ismail,Directed,Fahim,,0.7
+Fahim,Jabir,Directed,Fahim,,0.8
+Fahim,Jauhari,Directed,Fahim,,0.7
+Fahim,Kang Jaja,Directed,Fahim,,0.8
+Fahim,Noordin,Directed,Fahim,,0.9
+Fahim,Qotadah,Directed,Fahim,,0.7
+Fahim,Son Hadi,Directed,Fahim,,0.8
+Fahim,Ubeid,Directed,Fahim,,0.8
+Fahim,Urwah,Directed,Fahim,,0.8
+Faiz,Abdullah Sunata,Directed,Faiz,,0.8
+Faiz,Akram,Directed,Faiz,,0.9
+Faiz,Ali Zein,Directed,Faiz,,0.8
+Faiz,Noordin,Directed,Faiz,,0.9
+Faiz,Usman,Directed,Faiz,,0.8
+Fajar Novianto,Arif Pamungkas,Directed,Fajar Novianto,,0.7
+Fajar Novianto,Badri Hartono,Directed,Fajar Novianto,,0.9
+Fajar Novianto,Joko Parkit,Directed,Fajar Novianto,,0.7
+Fajar Novianto,Kamidi,Directed,Fajar Novianto,,0.7
+Fajar Novianto,Robot,Directed,Fajar Novianto,,0.7
+Fajar Novianto,Rudi Kurnia Putra,Directed,Fajar Novianto,,0.7
+Fajar Novianto,Triyanto,Directed,Fajar Novianto,,0.7
+Fajar Novianto,Wendy Febriangga,Directed,Fajar Novianto,,0.7
+Feri,Idris,Directed,Feri,,0.8
+Feri,Imron,Directed,Feri,,0.8
+Feri,Samudra,Directed,Feri,,1.0
+Firin,Dulmatin,Directed,Firin,,1.0
+Ghani,Dulmatin,Directed,Ghani,,0.7
+Ghani,Idris,Directed,Ghani,,0.8
+Ghani,Imron,Directed,Ghani,,0.8
+Ghani,Muklas,Directed,Ghani,,0.7
+Ghani,Patek,Directed,Ghani,,0.7
+Ghani,Samudra,Directed,Ghani,,0.7
+Halawi Makmun,Omar Abdurrahman,Directed,Halawi Makmun,,1.0
+Halawi Makmun,Ubaid,Directed,Halawi Makmun,,0.8
+Halawi Makmun,Yudi,Directed,Halawi Makmun,,0.8
+Hari Kuncoro,Abdullah Sunata,Directed,Hari Kuncoro,,0.8
+Hari Kuncoro,Cahya Fitriyanta,Directed,Hari Kuncoro,,0.8
+Hari Kuncoro,Dulmatin,Directed,Hari Kuncoro,,1.8
+Hari Kuncoro,Iqbal Huzaini,Directed,Hari Kuncoro,,0.7
+Hari Kuncoro,Uqbah,Directed,Hari Kuncoro,,0.8
+Hari Kuncoro,Usman,Directed,Hari Kuncoro,,0.7
+Hasan,Abu Fida,Directed,Hasan,,0.8
+Hasan,Adung,Directed,Hasan,,0.8
+Hasan,Anton,Directed,Hasan,,0.8
+Hasan,Chandra,Directed,Hasan,,0.8
+Hasan,Deni Suramto,Directed,Hasan,,0.8
+Hasan,Fahim,Directed,Hasan,,0.8
+Hasan,Ismail,Directed,Hasan,,0.8
+Hasan,Jauhari,Directed,Hasan,,0.8
+Hasan,Noordin,Directed,Hasan,,0.9
+Hasan,Son Hadi,Directed,Hasan,,0.8
+Hasan Nur,Dulmatin,Directed,Hasan Nur,,1.0
+Heri Golun,Abdul Hadi,Directed,Heri Golun,,0.8
+Heri Golun,Epul,Directed,Heri Golun,,0.8
+Heri Golun,Noordin,Directed,Heri Golun,,1.0
+Heri Golun,Rijal,Directed,Heri Golun,,0.8
+Heri Golun,Rois,Directed,Heri Golun,,0.8
+Heri Golun,Saptono,Directed,Heri Golun,,0.8
+Heri Golun,Ubeid,Directed,Heri Golun,,1.0
+Heri Golun,Umar,Directed,Heri Golun,,0.8
+Heri Golun,Urwah,Directed,Heri Golun,,1.0
+Heri Sigu,Abu Fida,Directed,Heri Sigu,,0.8
+Heri Sigu,Adung,Directed,Heri Sigu,,0.7
+Heri Sigu,Deni Suramto,Directed,Heri Sigu,,0.8
+Heri Sigu,Fahim,Directed,Heri Sigu,,0.9
+Heri Sigu,Hasan,Directed,Heri Sigu,,0.7
+Heri Sigu,Jabir,Directed,Heri Sigu,,0.8
+Heri Sigu,Noordin,Directed,Heri Sigu,,1.0
+Heri Sigu,Qotadah,Directed,Heri Sigu,,1.5
+Heri Sigu,Son Hadi,Directed,Heri Sigu,,0.8
+Heri Sigu,Ubeid,Directed,Heri Sigu,,0.8
+Heri Sigu,Umar,Directed,Heri Sigu,,0.7
+Heri Sigu,Urwah,Directed,Heri Sigu,,0.8
+Hidayat,Junaedi,Directed,Hidayat,,0.8
+Hidayat,Octavia,Directed,Hidayat,,0.9
+Hidayat,Rauf,Directed,Hidayat,,0.8
+Hidayat,Samudra,Directed,Hidayat,,1.0
+Hilman Djajakusumah,Alex Gunawan,Directed,Hilman Djajakusumah,,0.7
+Hilman Djajakusumah,Sabar,Directed,Hilman Djajakusumah,,0.7
+Idris,Amrozi,Directed,Idris,,0.7
+Idris,Arnasan,Directed,Idris,,0.6
+Idris,Asmar Latin Sani,Directed,Idris,,0.7
+Idris,Azahari,Directed,Idris,,0.8
+Idris,Dulmatin,Directed,Idris,,0.8
+Idris,Feri,Directed,Idris,,0.6
+Idris,Ghani,Directed,Idris,,0.8
+Idris,Ismail,Directed,Idris,,0.8
+Idris,M. Rais,Directed,Idris,,0.8
+Idris,Mubarok,Directed,Idris,,0.8
+Idris,Muklas,Directed,Idris,,1.0
+Idris,Noordin,Directed,Idris,,0.8
+Idris,Patek,Directed,Idris,,0.7
+Idris,Samudra,Directed,Idris,,0.8
+Idris,Sardona Siliwangi,Directed,Idris,,0.7
+Idris,Tohir,Directed,Idris,,0.7
+Idris,Toni Togar,Directed,Idris,,0.8
+Imron,Amrozi,Directed,Imron,,0.7
+Imron,Arnasan,Directed,Imron,,0.6
+Imron,Azahari,Directed,Imron,,0.7
+Imron,Dulmatin,Directed,Imron,,0.8
+Imron,Feri,Directed,Imron,,0.6
+Imron,Ghani,Directed,Imron,,0.7
+Imron,Idris,Directed,Imron,,0.9
+Imron,Mubarok,Directed,Imron,,0.9
+Imron,Muklas,Directed,Imron,,1.0
+Imron,Patek,Directed,Imron,,0.7
+Imron,Samudra,Directed,Imron,,0.7
+Imron Rosyidi,Agus Supriyanto,Directed,Imron Rosyidi,,0.7
+Imron Rosyidi,Fadlun,Directed,Imron Rosyidi,,0.7
+Imron Rosyidi,Irwanto,Directed,Imron Rosyidi,,0.7
+Imron Rosyidi,Santoso,Directed,Imron Rosyidi,,1.6
+Imron Rosyidi,Yasin,Directed,Imron Rosyidi,,0.7
+Ismail,Abu Dujana,Directed,Ismail,,0.7
+Ismail,Anton,Directed,Ismail,,0.7
+Ismail,Asmar Latin Sani,Directed,Ismail,,0.8
+Ismail,Chandra,Directed,Ismail,,0.8
+Ismail,Deni Suramto,Directed,Ismail,,0.8
+Ismail,Fahim,Directed,Ismail,,0.7
+Ismail,Hasan,Directed,Ismail,,0.8
+Ismail,Idris,Directed,Ismail,,0.8
+Ismail,Jauhari,Directed,Ismail,,0.8
+Ismail,M. Rais,Directed,Ismail,,0.8
+Ismail,Noordin,Directed,Ismail,,1.0
+Ismail,Sardona Siliwangi,Directed,Ismail,,0.8
+Ismail,Son Hadi,Directed,Ismail,,0.7
+Ismail,Tohir,Directed,Ismail,,0.8
+Ismail,Toni Togar,Directed,Ismail,,0.8
+Jabir,Abdul Hadi,Directed,Jabir,,0.9
+Jabir,Abu Fida,Directed,Jabir,,0.8
+Jabir,Deni Suramto,Directed,Jabir,,0.8
+Jabir,Fahim,Directed,Jabir,,0.9
+Jabir,Heri Sigu,Directed,Jabir,,0.8
+Jabir,Noordin,Directed,Jabir,,1.0
+Jabir,Salik Firdaus,Directed,Jabir,,0.8
+Jabir,Son Hadi,Directed,Jabir,,0.8
+Jabir,Ubeid,Directed,Jabir,,0.9
+Jabir,Umar,Directed,Jabir,,0.8
+Jabir,Urwah,Directed,Jabir,,0.9
+Jaja Miharja,Alex Gunawan,Directed,Jaja Miharja,,0.7
+Jaja Miharja,Sabar,Directed,Jaja Miharja,,0.7
+Jauhari,Anton,Directed,Jauhari,,0.8
+Jauhari,Chandra,Directed,Jauhari,,0.8
+Jauhari,Deni Suramto,Directed,Jauhari,,0.8
+Jauhari,Fahim,Directed,Jauhari,,0.8
+Jauhari,Hasan,Directed,Jauhari,,0.8
+Jauhari,Ismail,Directed,Jauhari,,0.8
+Jauhari,Jauhari,Directed,463,,0.8
+Jauhari,Son Hadi,Directed,Jauhari,,0.8
+Jipo,Abrory,Directed,Jipo,,0.8
+Jipo,Cahya Fitriyanta,Directed,Jipo,,0.8
+Jipo,Muadz,Directed,Jipo,,0.7
+Jipo,Rizky Gunawan,Directed,Jipo,,0.8
+Jipo,Santoso,Directed,Jipo,,0.8
+Jipo,Uqbah,Directed,Jipo,,0.8
+Joko Harun,Abdullah Sunata,Directed,Joko Harun,,0.8
+Joko Harun,Ali Zein,Directed,Joko Harun,,0.8
+Joko Harun,Joni Ahmad Fauzan,Directed,Joko Harun,,0.8
+Joko Harun,Noordin,Directed,Joko Harun,,0.9
+Joko Harun,Usman,Directed,Joko Harun,,0.8
+Joko Parkit,Badri Hartono,Directed,Joko Parkit,,0.9
+Joko Parkit,Kamidi,Directed,Joko Parkit,,0.7
+Joko Parkit,Robot,Directed,Joko Parkit,,0.7
+Joko Parkit,Rudi Kurnia Putra,Directed,Joko Parkit,,0.7
+Joko Parkit,Triyanto,Directed,Joko Parkit,,0.7
+Joko Parkit,Wendy Febriangga,Directed,Joko Parkit,,0.7
+Joko Purwanto,Abdullah Sunata,Directed,Joko Purwanto,,0.8
+Joko Purwanto,Santoso,Directed,Joko Purwanto,,0.8
+Joko Sulistyo,Dulmatin,Directed,Joko Sulistyo,,1.0
+Joni Ahmad Fauzan,Ali Zein,Directed,Joni Ahmad Fauzan,,0.8
+Joni Ahmad Fauzan,Joko Harun,Directed,Joni Ahmad Fauzan,,0.8
+Joni Ahmad Fauzan,Noordin,Directed,Joni Ahmad Fauzan,,0.9
+Junaedi,Hidayat,Directed,Junaedi,,0.8
+Junaedi,Octavia,Directed,Junaedi,,0.9
+Junaedi,Rauf,Directed,Junaedi,,0.8
+Junaedi,Samudra,Directed,Junaedi,,1.0
+Kamal,Andre,Directed,Kamal,,0.8
+Kamal,Dulmatin,Directed,Kamal,,0.9
+Kamal,Omar Abdurrahman,Directed,Kamal,,1.0
+Kamal,Uqbah,Directed,Kamal,,0.8
+Kamidi,Arif Pamungkas,Directed,Kamidi,,0.7
+Kamidi,Badri Hartono,Directed,Kamidi,,0.9
+Kamidi,Fajar Novianto,Directed,Kamidi,,0.7
+Kamidi,Joko Parkit,Directed,Kamidi,,0.7
+Kamidi,Robot,Directed,Kamidi,,0.7
+Kamidi,Rudi Kurnia Putra,Directed,Kamidi,,0.7
+Kamidi,Triyanto,Directed,Kamidi,,0.7
+Kamidi,Wendy Febriangga,Directed,Kamidi,,0.7
+Kang Jaja,Abdul Hadi,Directed,Kang Jaja,,0.7
+Kang Jaja,Abu Abi,Directed,Kang Jaja,,0.8
+Kang Jaja,Abu Fida,Directed,Kang Jaja,,0.8
+Kang Jaja,Adam,Directed,Kang Jaja,,0.8
+Kang Jaja,Ahmed Sayid Maulana,Directed,Kang Jaja,,0.8
+Kang Jaja,Dulmatin,Directed,Kang Jaja,,0.8
+Kang Jaja,Enceng Kurnia,Directed,Kang Jaja,,0.8
+Kang Jaja,Fahim,Directed,Kang Jaja,,0.8
+Kang Jaja,Heri Sigu,Directed,Kang Jaja,,0.7
+Kang Jaja,Ibnu Sina,Directed,Kang Jaja,,0.8
+Kang Jaja,Ismet Hakiki,Directed,Kang Jaja,,0.8
+Kang Jaja,Jabir,Directed,Kang Jaja,,0.7
+Kang Jaja,Rauf,Directed,Kang Jaja,,0.8
+Kang Jaja,Rois,Directed,Kang Jaja,,0.8
+Kang Jaja,Saptono,Directed,Kang Jaja,,1.7
+Kang Jaja,Son Hadi,Directed,Kang Jaja,,0.8
+Kang Jaja,Ubaid,Directed,Kang Jaja,,1.0
+Kang Jaja,Ubeid,Directed,Kang Jaja,,0.8
+Kang Jaja,Urwah,Directed,Kang Jaja,,1.8
+Kang Jaja,Yudi,Directed,Kang Jaja,,0.8
+Kang Jaja,Zakky Rahmatullah,Directed,Kang Jaja,,0.8
+Latif,Santoso,Directed,Latif,,0.8
+Latif,Yasin,Directed,Latif,,0.8
+M. Rais,Asmar Latin Sani,Directed,M. Rais,,0.7
+M. Rais,Idris,Directed,M. Rais,,0.8
+M. Rais,Ismail,Directed,M. Rais,,0.8
+M. Rais,Noordin,Directed,M. Rais,,1.0
+M. Rais,Sardona Siliwangi,Directed,M. Rais,,0.7
+M. Rais,Tohir,Directed,M. Rais,,0.7
+M. Rais,Toni Togar,Directed,M. Rais,,0.8
+Maskur,Dulmatin,Directed,Maskur,,0.7
+Maskur,Imron,Directed,Maskur,,0.7
+Maskur,Samudra,Directed,Maskur,,0.9
+Muadz,Abrory,Directed,Muadz,,0.8
+Muadz,Cahya Fitriyanta,Directed,Muadz,,0.8
+Muadz,Jipo,Directed,Muadz,,0.8
+Muadz,Rizky Gunawan,Directed,Muadz,,0.8
+Muadz,Santoso,Directed,Muadz,,0.8
+Mu'arifin,Abdullah Sunata,Directed,Mu'arifin,,0.8
+Mu'arifin,Imron Rosyidi,Directed,Mu'arifin,,0.8
+Mubarok,Amrozi,Directed,Mubarok,,0.8
+Mubarok,Imron,Directed,Mubarok,,0.8
+Mubarok,Muklas,Directed,Mubarok,,1.0
+Muklas,Amrozi,Directed,Muklas,,0.9
+Muklas,Azahari,Directed,Muklas,,0.9
+Muklas,Dulmatin,Directed,Muklas,,0.8
+Muklas,Ghani,Directed,Muklas,,0.8
+Muklas,Idris,Directed,Muklas,,0.8
+Muklas,Imron,Directed,Muklas,,0.9
+Muklas,Mubarok,Directed,Muklas,,0.8
+Muklas,Patek,Directed,Muklas,,0.7
+Muklas,Samudra,Directed,Muklas,,0.9
+Mustaqim,Abu Tholut,Directed,Mustaqim,,0.8
+Mustaqim,Dulmatin,Directed,Mustaqim,,0.8
+Mustaqim,Ubaid,Directed,Mustaqim,,0.8
+Mustaqim,Urwah,Directed,Mustaqim,,0.8
+Niko,Dulmatin,Directed,Niko,,1.0
+Noordin,Abdul Azis,Directed,Noordin,,0.7
+Noordin,Abdul Hadi,Directed,Noordin,,0.9
+Noordin,Abdullah Sunata,Directed,Noordin,,1.2
+Noordin,Abrory,Directed,Noordin,,0.7
+Noordin,Abu Dujana,Directed,Noordin,,0.6
+Noordin,Abu Fida,Directed,Noordin,,0.8
+Noordin,Ali Zein,Directed,Noordin,,0.7
+Noordin,Anton,Directed,Noordin,,0.7
+Noordin,Arman,Directed,Noordin,,0.8
+Noordin,Asmar Latin Sani,Directed,Noordin,,0.7
+Noordin,Chandra,Directed,Noordin,,0.7
+Noordin,Cholily,Directed,Noordin,,0.7
+Noordin,Deni Suramto,Directed,Noordin,,0.7
+Noordin,Fahim,Directed,Noordin,,0.8
+Noordin,Faiz,Directed,Noordin,,0.7
+Noordin,Hari Kuncoro,Directed,Noordin,,0.7
+Noordin,Hasan,Directed,Noordin,,0.7
+Noordin,Heri Golun,Directed,Noordin,,0.8
+Noordin,Heri Sigu,Directed,Noordin,,0.8
+Noordin,Idris,Directed,Noordin,,0.7
+Noordin,Ismail,Directed,Noordin,,0.7
+Noordin,Jabir,Directed,Noordin,,0.9
+Noordin,Jauhari,Directed,Noordin,,0.7
+Noordin,M. Rais,Directed,Noordin,,1.0
+Noordin,Qotadah,Directed,Noordin,,0.7
+Noordin,Rois,Directed,Noordin,,0.7
+Noordin,Sardona Siliwangi,Directed,Noordin,,0.8
+Noordin,Son Hadi,Directed,Noordin,,0.9
+Noordin,Subur Sugiarto,Directed,Noordin,,0.8
+Noordin,Tedi,Directed,Noordin,,0.8
+Noordin,Tohir,Directed,Noordin,,0.9
+Noordin,Toni Togar,Directed,Noordin,,0.8
+Noordin,Ubaid,Directed,Noordin,,0.9
+Noordin,Ubeid,Directed,Noordin,,0.9
+Noordin,Umar,Directed,Noordin,,0.7
+Noordin,Uqbah,Directed,Noordin,,0.8
+Noordin,Urwah,Directed,Noordin,,1.8
+Octavia,Hidayat,Directed,Octavia,,0.8
+Octavia,Junaedi,Directed,Octavia,,0.8
+Octavia,Rauf,Directed,Octavia,,0.8
+Octavia,Samudra,Directed,Octavia,,1.0
+Patek,Abdullah Sunata,Directed,Patek,,0.7
+Patek,Azahari,Directed,Patek,,0.7
+Patek,Dulmatin,Directed,Patek,,1.8
+Patek,Faiz,Directed,Patek,,0.7
+Patek,Ghani,Directed,Patek,,0.7
+Patek,Idris,Directed,Patek,,0.7
+Patek,Imron,Directed,Patek,,0.7
+Patek,Muklas,Directed,Patek,,1.0
+Patek,Samudra,Directed,Patek,,0.7
+Pujata,Rochman,Directed,Pujata,,0.8
+Pujata,Rois,Directed,Pujata,,0.8
+Pujata,Rosihin Nur,Directed,Pujata,,0.8
+Qotadah,Abu Dujana,Directed,Qotadah,,0.7
+Qotadah,Adung,Directed,Qotadah,,0.8
+Qotadah,Fahim,Directed,Qotadah,,0.8
+Qotadah,Heri Sigu,Directed,Qotadah,,0.7
+Rauf,Hidayat,Directed,Rauf,,0.8
+Rauf,Junaedi,Directed,Rauf,,0.8
+Rauf,Octavia,Directed,Rauf,,0.9
+Rauf,Samudra,Directed,Rauf,,1.0
+Ridwan Farid,Ali Miftah,Directed,Ridwan Farid,,0.8
+Rizky Gunawan,Abrory,Directed,Rizky Gunawan,,0.7
+Rizky Gunawan,Alex Gunawan,Directed,Rizky Gunawan,,0.7
+Rizky Gunawan,Cahya Fitriyanta,Directed,Rizky Gunawan,,0.8
+Rizky Gunawan,Jipo,Directed,Rizky Gunawan,,0.7
+Rizky Gunawan,Muadz,Directed,Rizky Gunawan,,0.7
+Rizky Gunawan,Sabar,Directed,Rizky Gunawan,,1.0
+Rizky Gunawan,Santoso,Directed,Rizky Gunawan,,0.8
+Robot,Arif Pamungkas,Directed,Robot,,0.7
+Robot,Badri Hartono,Directed,Robot,,0.9
+Robot,Fajar Novianto,Directed,Robot,,0.7
+Robot,Joko Parkit,Directed,Robot,,0.7
+Robot,Rudi Kurnia Putra,Directed,Robot,,0.7
+Robot,Triyanto,Directed,Robot,,0.7
+Robot,Wendy Febriangga,Directed,Robot,,0.7
+Rochman,Pujata,Directed,Rochman,,0.8
+Rochman,Rois,Directed,Rochman,,0.8
+Rois,Abdul Azis,Directed,Rois,,0.7
+Rois,Ali Zein,Directed,Rois,,0.7
+Rois,Deni Suramto,Directed,Rois,,0.7
+Rois,Dulmatin,Directed,Rois,,0.8
+Rois,Hari Kuncoro,Directed,Rois,,0.7
+Rois,Heri Golun,Directed,Rois,,0.8
+Rois,Irun Hidayat,Directed,Rois,,0.7
+Rois,Kang Jaja,Directed,Rois,,0.8
+Rois,Patek,Directed,Rois,,0.8
+Rois,Pujata,Directed,Rois,,0.8
+Rois,Rochman,Directed,Rois,,0.7
+Rois,Saptono,Directed,Rois,,0.8
+Rois,Ubeid,Directed,Rois,,0.8
+Rois,Umar,Directed,Rois,,0.7
+Rois,Urwah,Directed,Rois,,0.8
+Rosihin Nur,Engkos Kosasi,Directed,Rosihin Nur,,0.8
+Rosihin Nur,Heri Hafidin,Directed,Rosihin Nur,,0.8
+Rosihin Nur,Irun Hidayat,Directed,Rosihin Nur,,0.7
+Rosihin Nur,Iwan Suka Abdullah,Directed,Rosihin Nur,,0.7
+Rosihin Nur,Kang Jaja,Directed,Rosihin Nur,,0.8
+Rosihin Nur,Mochtar,Directed,Rosihin Nur,,0.8
+Rosihin Nur,Pujata,Directed,Rosihin Nur,,0.8
+Rosihin Nur,Rochman,Directed,Rosihin Nur,,0.8
+Rosihin Nur,Rois,Directed,Rosihin Nur,,0.8
+Rosihin Nur,Samudra,Directed,Rosihin Nur,,0.8
+Rosihin Nur,Saptono,Directed,Rosihin Nur,,0.8
+Rudi Kurnia Putra,Arif Pamungkas,Directed,Rudi Kurnia Putra,,0.7
+Rudi Kurnia Putra,Badri Hartono,Directed,Rudi Kurnia Putra,,0.9
+Rudi Kurnia Putra,Fajar Novianto,Directed,Rudi Kurnia Putra,,0.7
+Rudi Kurnia Putra,Joko Parkit,Directed,Rudi Kurnia Putra,,0.7
+Rudi Kurnia Putra,Kamidi,Directed,Rudi Kurnia Putra,,0.7
+Rudi Kurnia Putra,Robot,Directed,Rudi Kurnia Putra,,0.7
+Rudi Kurnia Putra,Rudi Kurnia Putra,Directed,681,,0.7
+Rudi Kurnia Putra,Triyanto,Directed,Rudi Kurnia Putra,,0.7
+Rudi Kurnia Putra,Wendy Febriangga,Directed,Rudi Kurnia Putra,,0.7
+Sabar,Alex Gunawan,Directed,Sabar,,0.8
+Sabar,Hilman Djajakusumah,Directed,Sabar,,0.7
+Sabar,Jaja Miharja,Directed,Sabar,,0.8
+Sabar,Rizky Gunawan,Directed,Sabar,,0.9
+Sabar,Santoso,Directed,Sabar,,0.8
+Sabar,Taufik Hidayat,Directed,Sabar,,0.7
+Said Sungkar,Ali Zein,Directed,Said Sungkar,,0.8
+Salik Firdaus,Aip Hidayat,Directed,Salik Firdaus,,0.8
+Salik Firdaus,Anif Solchanudin,Directed,Salik Firdaus,,0.8
+Salik Firdaus,Jabir,Directed,Salik Firdaus,,0.8
+Salik Firdaus,Misno,Directed,Salik Firdaus,,0.8
+Samudra,Amrozi,Directed,Samudra,,0.7
+Samudra,Arnasan,Directed,Samudra,,0.9
+Samudra,Azahari,Directed,Samudra,,0.7
+Samudra,Dulmatin,Directed,Samudra,,0.8
+Samudra,Feri,Directed,Samudra,,0.9
+Samudra,Ghani,Directed,Samudra,,0.7
+Samudra,Hidayat,Directed,Samudra,,0.8
+Samudra,Idris,Directed,Samudra,,0.7
+Samudra,Imron,Directed,Samudra,,0.7
+Samudra,Junaedi,Directed,Samudra,,0.8
+Samudra,Mubarok,Directed,Samudra,,0.7
+Samudra,Muklas,Directed,Samudra,,1.0
+Samudra,Octavia,Directed,Samudra,,0.8
+Samudra,Patek,Directed,Samudra,,0.7
+Samudra,Rauf,Directed,Samudra,,0.8
+Santoso,Abrory,Directed,Santoso,,0.8
+Santoso,Abu Tholut,Directed,Santoso,,0.9
+Santoso,Agus Supriyanto,Directed,Santoso,,0.7
+Santoso,Aryanto Haluta,Directed,Santoso,,0.7
+Santoso,Badri Hartono,Directed,Santoso,,0.8
+Santoso,Cahya Fitriyanta,Directed,Santoso,,0.7
+Santoso,Fadlun,Directed,Santoso,,0.7
+Santoso,Imron Rosyidi,Directed,Santoso,,0.7
+Santoso,Irwanto,Directed,Santoso,,0.7
+Santoso,Jipo,Directed,Santoso,,0.8
+Santoso,Joko Purwanto,Directed,Santoso,,0.7
+Santoso,Latif,Directed,Santoso,,0.7
+Santoso,Muadz,Directed,Santoso,,0.7
+Santoso,Mu'arifin,Directed,Santoso,,0.7
+Santoso,Rizky Gunawan,Directed,Santoso,,0.8
+Santoso,Sabar,Directed,Santoso,,0.8
+Santoso,Sibghotullah,Directed,Santoso,,0.8
+Santoso,Uqbah,Directed,Santoso,,0.8
+Santoso,Wendy Febriangga,Directed,Santoso,,0.7
+Santoso,Yasin,Directed,Santoso,,0.8
+Saptono,Rosihin Nur,Directed,Saptono,,0.8
+Saptono,Ubeid,Directed,Saptono,,0.8
+Saptono,Umar,Directed,Saptono,,0.8
+Saptono,Urwah,Directed,Saptono,,0.8
+Sardona Siliwangi,Asmar Latin Sani,Directed,Sardona Siliwangi,,0.7
+Sardona Siliwangi,Idris,Directed,Sardona Siliwangi,,0.7
+Sardona Siliwangi,Ismail,Directed,Sardona Siliwangi,,0.7
+Sardona Siliwangi,M. Rais,Directed,Sardona Siliwangi,,0.8
+Sardona Siliwangi,Noordin,Directed,Sardona Siliwangi,,0.9
+Sardona Siliwangi,Tohir,Directed,Sardona Siliwangi,,0.7
+Sardona Siliwangi,Toni Togar,Directed,Sardona Siliwangi,,0.8
+Sawat,Amrozi,Directed,Sawat,,0.7
+Sawat,Dulmatin,Directed,Sawat,,0.8
+Sawat,Ghani,Directed,Sawat,,0.8
+Sawat,Idris,Directed,Sawat,,0.8
+Sawat,Imron,Directed,Sawat,,0.8
+Sawat,Patek,Directed,Sawat,,0.8
+Sibghotullah,Andre,Directed,Sibghotullah,,0.7
+Sibghotullah,Bayu Seno,Directed,Sibghotullah,,0.7
+Sibghotullah,Dulmatin,Directed,Sibghotullah,,0.8
+Sibghotullah,Santoso,Directed,Sibghotullah,,0.8
+Sibghotullah,Ubaid,Directed,Sibghotullah,,0.8
+Sibghotullah,Urwah,Directed,Sibghotullah,,0.8
+Sibghotullah,Yudi,Directed,Sibghotullah,,0.7
+Sibghotullah,Yusuf Arifin,Directed,Sibghotullah,,0.7
+Sofyan,Abdul Razak,Directed,Sofyan,,0.8
+Sofyan,Abdullah Sunata,Directed,Sofyan,,0.8
+Sofyan,Aman Abdurrahman,Directed,Sofyan,,1.0
+Sofyan,Andre,Directed,Sofyan,,0.8
+Sofyan,Dulmatin,Directed,Sofyan,,1.0
+Sofyan,Trisno,Directed,Sofyan,,0.8
+Sofyan,Ubaid,Directed,Sofyan,,0.8
+Sofyan,Urwah,Directed,Sofyan,,0.8
+Sofyan,Yudi,Directed,Sofyan,,1.0
+Son Hadi,Abu Fida,Directed,Son Hadi,,0.8
+Son Hadi,Adung,Directed,Son Hadi,,0.7
+Son Hadi,Anton,Directed,Son Hadi,,0.7
+Son Hadi,Chandra,Directed,Son Hadi,,0.7
+Son Hadi,Deni Suramto,Directed,Son Hadi,,0.7
+Son Hadi,Fahim,Directed,Son Hadi,,0.8
+Son Hadi,Hasan,Directed,Son Hadi,,0.7
+Son Hadi,Heri Sigu,Directed,Son Hadi,,0.8
+Son Hadi,Ismail,Directed,Son Hadi,,0.7
+Son Hadi,Jabir,Directed,Son Hadi,,0.7
+Son Hadi,Jauhari,Directed,Son Hadi,,0.7
+Son Hadi,Noordin,Directed,Son Hadi,,0.8
+Son Hadi,Ubeid,Directed,Son Hadi,,0.8
+Son Hadi,Umar,Directed,Son Hadi,,0.7
+Son Hadi,Urwah,Directed,Son Hadi,,0.8
+Subur Sugiarto,Ali Zein,Directed,Subur Sugiarto,,0.8
+Subur Sugiarto,Noordin,Directed,Subur Sugiarto,,1.0
+Subur Sugiarto,Ubeid,Directed,Subur Sugiarto,,0.8
+Taufik Hidayat,Alex Gunawan,Directed,Taufik Hidayat,,0.7
+Taufik Hidayat,Rizky Gunawan,Directed,Taufik Hidayat,,0.7
+Taufik Hidayat,Sabar,Directed,Taufik Hidayat,,0.7
+Tedi,Cholily,Directed,Tedi,,0.9
+Tedi,Noordin,Directed,Tedi,,1.0
+Tengku Mukhtar Ibrahim,Andre,Directed,Tengku Mukhtar Ibrahim,,0.8
+Tengku Mukhtar Ibrahim,Dulmatin,Directed,Tengku Mukhtar Ibrahim,,0.7
+Tengku Mukhtar Ibrahim,Tengku Muslim,Directed,Tengku Mukhtar Ibrahim,,1.0
+Tengku Mukhtar Ibrahim,Yudi,Directed,Tengku Mukhtar Ibrahim,,0.8
+Tengku Muslim,Abdullah Sunata,Directed,Tengku Muslim,,0.5
+Tengku Muslim,Ahmed Sayid Maulana,Directed,Tengku Muslim,,0.5
+Tengku Muslim,Dulmatin,Directed,Tengku Muslim,,0.5
+Tengku Muslim,Sofyan,Directed,Tengku Muslim,,0.5
+Tengku Muslim,Tengku Mukhtar Ibrahim,Directed,Tengku Muslim,,0.7
+Tengku Muslim,Yudi,Directed,Tengku Muslim,,0.5
+Tohir,Asmar Latin Sani,Directed,Tohir,,0.7
+Tohir,Idris,Directed,Tohir,,0.7
+Tohir,Ismail,Directed,Tohir,,0.7
+Tohir,M. Rais,Directed,Tohir,,0.8
+Tohir,Noordin,Directed,Tohir,,1.0
+Tohir,Sardona Siliwangi,Directed,Tohir,,0.7
+Tohir,Toni Togar,Directed,Tohir,,0.8
+Toni Togar,Asmar Latin Sani,Directed,Toni Togar,,0.7
+Toni Togar,Idris,Directed,Toni Togar,,0.8
+Toni Togar,Ismail,Directed,Toni Togar,,0.8
+Toni Togar,M. Rais,Directed,Toni Togar,,0.8
+Toni Togar,Noordin,Directed,Toni Togar,,0.8
+Toni Togar,Sardona Siliwangi,Directed,Toni Togar,,0.7
+Toni Togar,Tohir,Directed,Toni Togar,,0.7
+Triyanto,Arif Pamungkas,Directed,Triyanto,,0.7
+Triyanto,Badri Hartono,Directed,Triyanto,,0.9
+Triyanto,Fajar Novianto,Directed,Triyanto,,0.7
+Triyanto,Joko Parkit,Directed,Triyanto,,0.7
+Triyanto,Robot,Directed,Triyanto,,0.7
+Triyanto,Rudi Kurnia Putra,Directed,Triyanto,,0.7
+Triyanto,Wendy Febriangga,Directed,Triyanto,,0.7
+Ubaid,Abu Tholut,Directed,Ubaid,,0.8
+Ubaid,Bayu Seno,Directed,Ubaid,,0.8
+Ubaid,Deni Suramto,Directed,Ubaid,,0.8
+Ubaid,Dulmatin,Directed,Ubaid,,1.0
+Ubaid,Kang Jaja,Directed,Ubaid,,1.0
+Ubaid,Mustaqim,Directed,Ubaid,,0.8
+Ubaid,Noordin,Directed,Ubaid,,1.0
+Ubaid,Sibghotullah,Directed,Ubaid,,1.0
+Ubaid,Uqbah,Directed,Ubaid,,0.8
+Ubaid,Urwah,Directed,Ubaid,,1.0
+Ubeid,Abdul Hadi,Directed,Ubeid,,0.8
+Ubeid,Abdullah Sunata,Directed,Ubeid,,0.8
+Ubeid,Abu Dujana,Directed,Ubeid,,0.8
+Ubeid,Abu Fida,Directed,Ubeid,,0.8
+Ubeid,Ali Zein,Directed,Ubeid,,0.7
+Ubeid,Deni Suramto,Directed,Ubeid,,0.8
+Ubeid,Epul,Directed,Ubeid,,0.7
+Ubeid,Fahim,Directed,Ubeid,,0.9
+Ubeid,Heri Golun,Directed,Ubeid,,0.8
+Ubeid,Heri Sigu,Directed,Ubeid,,0.8
+Ubeid,Jabir,Directed,Ubeid,,0.7
+Ubeid,Noordin,Directed,Ubeid,,1.0
+Ubeid,Rijal,Directed,Ubeid,,0.7
+Ubeid,Rois,Directed,Ubeid,,0.9
+Ubeid,Saptono,Directed,Ubeid,,0.8
+Ubeid,Son Hadi,Directed,Ubeid,,0.8
+Ubeid,Subur Sugiarto,Directed,Ubeid,,0.8
+Ubeid,Umar,Directed,Ubeid,,0.7
+Ubeid,Urwah,Directed,Ubeid,,0.9
+Ubeid,Usman,Directed,Ubeid,,0.7
+Umar,Abu Fida,Directed,Umar,,0.8
+Umar,Deni Suramto,Directed,Umar,,0.8
+Umar,Heri Golun,Directed,Umar,,0.8
+Umar,Heri Sigu,Directed,Umar,,0.8
+Umar,Rois,Directed,Umar,,0.8
+Umar,Saptono,Directed,Umar,,0.8
+Umar,Son Hadi,Directed,Umar,,0.8
+Umar,Ubeid,Directed,Umar,,0.8
+Umar,Urwah,Directed,Umar,,0.8
+Uqbah,Abrory,Directed,Uqbah,,0.8
+Uqbah,Abu Tholut,Directed,Uqbah,,0.8
+Uqbah,Dulmatin,Directed,Uqbah,,0.9
+Uqbah,Hari Kuncoro,Directed,Uqbah,,0.8
+Uqbah,Jipo,Directed,Uqbah,,0.8
+Uqbah,Noordin,Directed,Uqbah,,0.9
+Uqbah,Santoso,Directed,Uqbah,,0.8
+Uqbah,Ubaid,Directed,Uqbah,,0.8
+Urwah,Abu Dujana,Directed,Urwah,,0.8
+Urwah,Abu Fida,Directed,Urwah,,0.8
+Urwah,Badri Hartono,Directed,Urwah,,0.8
+Urwah,Deni Suramto,Directed,Urwah,,1.6
+Urwah,Dulmatin,Directed,Urwah,,1.0
+Urwah,Fahim,Directed,Urwah,,0.9
+Urwah,Heri Sigu,Directed,Urwah,,0.8
+Urwah,Ismet Hakiki,Directed,Urwah,,0.8
+Urwah,Jabir,Directed,Urwah,,0.7
+Urwah,Kang Jaja,Directed,Urwah,,1.8
+Urwah,Mustaqim,Directed,Urwah,,0.8
+Urwah,Noordin,Directed,Urwah,,2.0
+Urwah,Rois,Directed,Urwah,,0.9
+Urwah,Saptono,Directed,Urwah,,2.4
+Urwah,Sibghotullah,Directed,Urwah,,1.0
+Urwah,Sofyan,Directed,Urwah,,0.7
+Urwah,Son Hadi,Directed,Urwah,,0.8
+Urwah,Ubaid,Directed,Urwah,,1.0
+Urwah,Ubeid,Directed,Urwah,,0.9
+Urwah,Umar,Directed,Urwah,,0.7
+Urwah,Yudi,Directed,Urwah,,0.7
+Usman,Abdullah Sunata,Directed,Usman,,0.8
+Usman,Ali Zein,Directed,Usman,,0.8
+Usman,Dulmatin,Directed,Usman,,1.0
+Usman,Faiz,Directed,Usman,,0.8
+Usman,Joko Harun,Directed,Usman,,0.8
+Usman,Noordin,Directed,Usman,,0.9
+Usman,Ubeid,Directed,Usman,,0.8
+Warsito,Dulmatin,Directed,Warsito,,1.0
+Wendy Febriangga,Abu Tholut,Directed,Wendy Febriangga,,0.9
+Wendy Febriangga,Arif Pamungkas,Directed,Wendy Febriangga,,0.7
+Wendy Febriangga,Badri Hartono,Directed,Wendy Febriangga,,0.9
+Wendy Febriangga,Fajar Novianto,Directed,Wendy Febriangga,,0.7
+Wendy Febriangga,Joko Parkit,Directed,Wendy Febriangga,,0.8
+Wendy Febriangga,Kamidi,Directed,Wendy Febriangga,,0.7
+Wendy Febriangga,Robot,Directed,Wendy Febriangga,,0.7
+Wendy Febriangga,Rudi Kurnia Putra,Directed,Wendy Febriangga,,0.7
+Wendy Febriangga,Santoso,Directed,Wendy Febriangga,,0.9
+Wendy Febriangga,Triyanto,Directed,Wendy Febriangga,,0.7
+Yasin,Latif,Directed,Yasin,,0.8
+Yasin,Santoso,Directed,Yasin,,0.8
+Yudi,Abdul Razak,Directed,Yudi,,0.7
+Yudi,Abdullah Sunata,Directed,Yudi,,0.8
+Yudi,Abu Rimba,Directed,Yudi,,0.7
+Yudi,Adam,Directed,Yudi,,0.7
+Yudi,Ahmed Sayid Maulana,Directed,Yudi,,0.7
+Yudi,Aman Abdurrahman,Directed,Yudi,,1.0
+Yudi,Andre,Directed,Yudi,,0.8
+Yudi,Dulmatin,Directed,Yudi,,1.0
+Yudi,Enceng Kurnia,Directed,Yudi,,0.7
+Yudi,Halawi Makmun,Directed,Yudi,,1.0
+Yudi,Kamal,Directed,Yudi,,1.0
+Yudi,Kang Jaja,Directed,Yudi,,0.7
+Yudi,Masykur Rahmat,Directed,Yudi,,0.7
+Yudi,Sibghotullah,Directed,Yudi,,0.8
+Yudi,Sofyan,Directed,Yudi,,1.0
+Yudi,Tengku Mukhtar Ibrahim,Directed,Yudi,,0.8
+Zainal,Ali Zein,Directed,Zainal,,0.8
+Zainal,Faiz,Directed,Zainal,,0.8
+Zainal,Noordin,Directed,Zainal,,0.9
+Zainal,Usman,Directed,Zainal,,0.8
