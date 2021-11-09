@@ -56,20 +56,25 @@ for v in g.nodes():
         for t in n_paths_through_v[v][s]:
             ratio_paths_through_v[v] += sum(n_paths_through_v[v][s][t])/len(n_paths_through_v[v][s][t])
 
-df_labels = pd.read_csv("leaders.csv")
+betweenness = list(ratio_paths_through_v.values())
+min_b = min(betweenness)
+max_b = max(betweenness)
+print("Minimum betweenness:",min_b)
+print("Maximum betweenness:",max_b)
 
-labels = {}
-for i,row in df_labels.iterrows():
-    labels[row["name"]] = row["leader_code"]
+weighted_degrees = list(map(lambda x: x[1]*7,g.degree(weight='weight')))
+min_w = min(weighted_degrees)
+max_w = max(weighted_degrees)
+print("Minimum weighted degree:",min_w)
+print("Maximum weighted degree:",max_w)
 
 options = {
     'node_color': 'green',
     'node_size': 50,
     'width': 0.1,
     'arrowstyle': '->',
-    'node_size': list(map(lambda x: x[1]*7,g.degree(weight='weight'))),
-    'node_color': list(ratio_paths_through_v.values()),
-    'labels': labels
+    'node_size': weighted_degrees,
+    'node_color': betweenness
 }
 
 
