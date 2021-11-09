@@ -105,13 +105,11 @@ in_x = list(range(len(g0.nodes())))
 nodes_random = random.sample(list(gR.nodes()),len(gR.nodes()))
 for node in tqdm(nodes_random):
     line_R.append(get_function(gR))
-    #line_ID.append(len(sorted(nx.strongly_connected_components(g1),key=len,reverse=True)[0]))
     gR.remove_node(node)
 
 size = len(g0.nodes())
 for i in tqdm(range(size)):
     max_degree_node = sorted(list(g0.degree()),key=lambda x: x[1],reverse=True)[0]
-    #print(max_degree_node[0])
     line_RD.append(get_function(g0))
     g0.remove_node(max_degree_node[0])
 
@@ -119,16 +117,13 @@ degrees = sorted(list(g1.degree()),key=lambda x: x[1],reverse=True)
 
 for t in tqdm(degrees):
     line_ID.append(get_function(g1))
-    #line_ID.append(len(sorted(nx.strongly_connected_components(g1),key=len,reverse=True)[0]))
     g1.remove_node(t[0])
 
 
 size = len(g2.nodes())
 for i in tqdm(range(size)):
     betweenness = get_betweenness(g2)[0]
-    #print(max_degree_node[0])
     line_RB.append(get_function(g2))
-    #clustering_average2.append(len(sorted(nx.strongly_connected_components(g2),key=len,reverse=True)[0]))
     g2.remove_node(betweenness[0])
 
 degrees = sorted(list(g1.degree()),key=lambda x: x[1],reverse=True)
@@ -136,7 +131,6 @@ degrees = sorted(list(g1.degree()),key=lambda x: x[1],reverse=True)
 betweenness = get_betweenness(g3)
 for t in tqdm(betweenness):
     line_IB.append(get_function(g3))
-    #line_ID3.append(len(sorted(nx.strongly_connected_components(g3),key=len,reverse=True)[0]))
     g3.remove_node(t[0])
 
 

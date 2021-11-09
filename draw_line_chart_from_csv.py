@@ -2,15 +2,16 @@ import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
 
-function_string = "Inverse Geodesic Length"
+function_string = "Clustering"
 
 df = pd.read_csv(f"{function_string}.csv")
-in_x = list(range(162))
-line_R = df.iloc[:162,1]
-line_ID = df.iloc[162:162*2,1]
-line_RD = df.iloc[162*2:162*3,1]
-line_IB = df.iloc[162*3:162*4,1]
-line_RB = df.iloc[162*4:,1]
+n = 887
+in_x = list(range(n))
+line_R = df.iloc[:n,1]
+line_ID = df.iloc[n:n*2,1]
+line_RD = df.iloc[n*2:n*3,1]
+line_IB = df.iloc[n*3:n*4,1]
+line_RB = df.iloc[n*4:,1]
 
 
 

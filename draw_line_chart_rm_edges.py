@@ -161,8 +161,8 @@ def get_betweenness(g,old_paths,old_paths_through_e):
 
 
 
-get_function = get_scc_size
-function_string = "SCC Size"
+get_function = get_clustering
+function_string = "Clustering"
 in_x = list(range(len(g0.edges())))
 
 edges_random = random.sample(list(gR.edges()),len(gR.edges()))
@@ -207,7 +207,8 @@ temp_paths_through_e = {}
 for i in tqdm(range(size)):
     betweennesses,temp_paths,temp_paths_through_e = get_betweenness(g2,temp_paths,temp_paths_through_e)
     betweenness = betweennesses[0]
-    line_RB.append(get_function(g2,temp_paths))
+    value,temp_paths = get_function(g2,temp_paths)
+    line_RB.append(value)
     g2.remove_edge(*betweenness[0])
 
 
@@ -228,7 +229,7 @@ plt.plot(in_x, line_R,color="grey",label="Random")
 plt.plot(in_x, line_ID,color="r",label="ID")
 plt.plot(in_x, line_RD,color="g",label="RD")    
 plt.plot(in_x, line_IB,color="b",label="IB")
-#plt.plot(in_x, line_RB,color="y",label="RB")
+plt.plot(in_x, line_RB,color="y",label="RB")
 
 
 plt.title(f'{function_string} Evolution')
